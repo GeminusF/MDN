@@ -1,0 +1,61 @@
+body{
+  width: 600px;
+  margin: 0 auto;
+  background-color: #b37400;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+p{
+  width: 500px;
+  border: 1px solid black;
+  color: white;
+}
+
+p,li{
+  font-size:16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html{
+  font-size: 20px;
+  font-family: 'Newsreader', serif;
+  background-color: #000000;
+}
+
+h1{
+    font-size:60px;
+    margin: 0;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+    color:#00539F;
+    padding: 20px 0;
+}
+
+h3{
+  color: white;
+}
+
+ul, ol{
+  color: yellow;
+}
+
+#my-id{
+  color: black;
+}
+
+.editor-note{
+  color: white;
+}
+
+img[src]{
+  border: 1px solid black;
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+a:hover{
+  color: black
+}
